@@ -50,10 +50,10 @@ This project leverages **Google Dataflow, Snowflake, AWS, and Power BI** to buil
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Screenshot](your-dashboard-screenshot.png)  
-*(Insert a screenshot of your Power BI dashboard for visual impact)*  
+<img width="1387" height="488" alt="image" src="https://github.com/user-attachments/assets/69586d85-cf44-42a1-b6cf-09fc8b08a619" />
 
----
+
+
 
 ## 🌟 Key Learnings  
 
